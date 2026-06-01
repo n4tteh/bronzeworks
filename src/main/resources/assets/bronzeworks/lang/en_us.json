@@ -1,4 +1,6 @@
 {
   "item.bronzeworks.bronze": "Bronze Ingot",
-  "item.bronzeworks.tin": "Tin Ingot"
+  "item.bronzeworks.tin": "Tin Ingot",
+
+  "block.bronzeworks.bronze_block": "Block of Bronze"
 }

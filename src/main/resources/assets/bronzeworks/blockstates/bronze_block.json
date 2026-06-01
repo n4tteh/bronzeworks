@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bronzeworks:block/bronze_block"
+    }
+  }
+}
